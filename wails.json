@@ -1,0 +1,21 @@
+{
+  "name": "wails_demo",
+  "assetdir": "frontend/dist",
+  "frontend:build": "npm run build -w js",
+  "frontend:install": "npm install",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "wails_demo",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "张光强",
+    "email": "zhangguangqiang@vpgame.cn"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
